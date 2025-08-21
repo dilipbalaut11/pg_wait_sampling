@@ -5,7 +5,7 @@
  * Copyright (c) 2015-2025, Postgres Professional
  *
  * IDENTIFICATION
- *	  contrib/pg_wait_sampling/pg_wait_sampling.h
+ *	  contrib/pg_wait_sampling/pg_wait_sampling.h <test change>
  */
 #ifndef __PG_WAIT_SAMPLING_H__
 #define __PG_WAIT_SAMPLING_H__
